@@ -1,0 +1,136 @@
+body a:link {
+   
+    text-decoration: none;
+  }
+  .col{
+      color: rgb(180, 172, 172);
+  }
+.div1{
+
+    display: flex;
+    height: 35px;
+}
+
+.div1 a:link {
+   
+    text-decoration: none;
+  }
+  
+
+.div1 div{
+
+    padding:0 20px;
+}
+.div1-1{
+
+   margin-left: 20%;
+}
+.div1 label,a{
+color: rgb(179, 172, 172);
+    padding:0 13px;
+    
+}
+
+.div1 select{
+border:0;
+
+}
+.address{
+text-align: center;
+ 
+}
+.address input{
+width: 50%;
+border: 0;
+border-bottom: 1px solid black;
+background-image: url(background.jpg);
+
+}
+
+.address button{
+   
+    /* Create Account */
+
+
+width: 150px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+
+line-height: 150%;
+background-color: black;
+text-align: center;
+letter-spacing: -0.019em;
+color: white;
+    }
+
+.back_ground{
+background-image: url(background.jpg);
+background-size: cover;
+width: 100%;
+}
+
+
+.div2{
+
+   margin-top: 30px;
+    display: flex;
+    text-align: center;
+    margin-left: 36%;
+    
+}
+
+.div3{
+height: 400px;
+    display: flex;
+    width: 85%;
+    padding: 30px;
+    margin: 0 10%;
+    justify-content: space-between;
+}
+.div3 div{
+border-radius: 10px;
+height: 415px;
+width: 305px;
+padding-left: 30px;
+    background-color: white; 
+    padding-top: 10px; 
+}
+
+
+.div3 div button{
+   
+    background-color: black;
+  
+    height: 10%;
+    width: 80%;
+    margin-left: 7%;
+    border-radius: 5px;
+    font-family: 'Montserrat'; 
+    font-weight: 700;  
+    font-size: 16px;
+line-height: 22px; 
+color: #FFFFFF;
+    }
+
+
+.div4{
+
+    display: flex;
+    padding: 0 50px;
+    justify-content: space-between;
+}
+
+footer{
+
+    background-color: rgb(46, 43, 43);
+    color: white;
+    
+    
+}
+
+
+
+
+
+
